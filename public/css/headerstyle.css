@@ -1,0 +1,116 @@
+  #box1{
+	width:1349px;
+	height:650px;
+	background: linear-gradient(rgb(3, 153, 3), rgb(10, 155, 10), blue);
+  }
+  
+  .imgheader {
+      box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+      padding: 10px;
+      border: 9px grey;
+      border-radius: 150px;
+  }
+  .imgheader2 {
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    padding: 10px;
+    border: 9px grey;
+    height: 200px;
+    border-radius: 150px;
+}
+  .headertext1{
+    font-size:100px;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: -50px;
+    margin-top: -30px;
+    
+  }
+  .headertext2{
+    font-size:50px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif   ;
+  }
+  .headeradmin{
+    font-size:20px;
+    color: white;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif   ;
+    opacity: 0.5;
+    padding-right:80px;
+    
+  }
+  
+  .logouin{
+    width: 100px;
+    align-self: center;
+    margin-top: -30px;
+  }
+
+ .card-header{
+   background-color: blue;
+   color: white;
+   
+ }
+ .text1{
+   text-align: center;
+   margin-top: 20px;
+   font-size: 40px;
+   font-family: Arial;
+   
+ }
+ .hr{
+  border: 1px black solid;
+		height: 0px;
+		width: 150px;
+ }
+ .imghomerek {
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+  padding: 10px;
+  border: 9px grey;
+  border-radius: 300px;
+  width: 250px;
+  height: 250px;
+  margin-left: 300px;
+}
+.rekhome{
+  text-align: right;
+}
+.rekhome2{
+  text-align: left;
+}
+.table{
+  width: 1130px;
+  position: relative;
+}
+.rangking{
+  width: 20px;
+  height: 20px;
+}
+.logouinform{
+  width: 80px;
+  align-self: center;
+  margin-top: -30px;
+}
+.modal-dialog{
+  background: #fbfbfb;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.65);
+        
+        margin: 6rem auto 8.1rem auto;
+        width: 350px;
+}
+.h3{
+  margin-left: 20px;
+}
+.sess{
+  font-size:20px;
+  color: white;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif   ;
+
+  padding-right:80px;
+}
+
+

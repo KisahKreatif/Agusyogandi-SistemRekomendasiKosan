@@ -1,0 +1,30 @@
+.imglist{
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    border: 2px rgb(0, 0, 0);
+    border-radius: 250px;
+}
+.hr{
+    border: 1px black solid;
+          height: 0px;
+          width: 550px;
+}
+.text1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: Arial;
+    
+}
+.table{
+    width: 1130px;
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+   
+}
+.rangking{
+    width: 20px;
+    height: 20px;
+}

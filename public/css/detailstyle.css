@@ -1,0 +1,31 @@
+
+.imgdet{
+    width: 800px;
+    height: 450px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    border: 9px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.hr{
+    border: 1px black solid;
+          height: 0px;
+          width: 550px;
+}
+.text1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: Arial;
+    
+}
+.rangking{
+    width: 20px;
+    height: 20px;
+}
+#boxdet{
+    width: 800px;
+    height: 450px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    border:solid 2px black;
+    border-radius: 10px;
+}
